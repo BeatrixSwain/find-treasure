@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #bec5d5;
+}
+
+.map img {
+    border: 1px solid black;
+}
+
+.trix-text img {
+    height: 50px;
+}
+
+.trix-text p {
+    display: inline-block;
+}
+
+#distance h2 {
+    margin: 0px;
+    display: inline-block;
+}
+
+.btn-win {
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background: #a1c527;
+    margin-bottom: 20px;
+}
+
+.found-it {
+    height: 50px;
+    display: inline-block;
+}
+
+.results {
+    text-align: center;
+}
